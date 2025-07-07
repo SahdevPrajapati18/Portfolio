@@ -35,7 +35,7 @@ I’m **Sahdev Prajapati**, an MCA graduate from **Kurukshetra University** with
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/port.png" width="600" alt="Portfolio Home" />
+  <img src="assets/img/port.png" width="600" alt="Portfolio Home" />
 </p>
 
 ---
