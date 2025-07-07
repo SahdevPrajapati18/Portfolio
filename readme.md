@@ -2,7 +2,7 @@
 
 This is my personal **Portfolio Website** built to showcase my projects, skills, experience, and contact information. It’s designed to be responsive, clean, and professional — giving visitors a clear idea of who I am as a developer.
 
-Live Preview 👉 [View Portfolio](https://sahdevprajapati18.github.io/portfolio/)
+Live Preview 👉 [View Portfolio](https://www.sahdevprajapati.netlify.app)
 
 ---
 
