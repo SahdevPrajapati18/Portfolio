@@ -2,7 +2,7 @@
 
 This is my personal **Portfolio Website** built to showcase my projects, skills, experience, and contact information. It’s designed to be responsive, clean, and professional — giving visitors a clear idea of who I am as a developer.
 
-Live Preview 👉 [View Portfolio](https://www.sahdevprajapati.netlify.app)
+Live Preview 👉 [View Portfolio](https://sahdevprajapati.netlify.app/)
 
 ---
 
@@ -35,7 +35,7 @@ I’m **Sahdev Prajapati**, an MCA graduate from **Kurukshetra University** with
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/portfolio-home.png" width="600" alt="Portfolio Home" />
+  <img src="assets/port.png" width="600" alt="Portfolio Home" />
 </p>
 
 ---
